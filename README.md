@@ -1,3 +1,7 @@
+# Open Source DMI
+
+An Open Source DMI is a digital musical instrument with a well-documented project, that is easy to reproduce or modify, accessible in terms of cost and components availability, and is obtainable publicly for any use. [Further reading](https://link.springer.com/chapter/10.1007%2F978-3-030-60114-0_5)
+
 # Checklist
 
 The checklist consists of a set of questions based on each step of the DMI development process and the previously discussed challenges, especially inspired by the OSHWA certification checklist:
