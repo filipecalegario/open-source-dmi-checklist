@@ -33,9 +33,9 @@ The checklist consists of a set of questions based on each step of the DMI devel
 
 # Publication
 
-This checklist was first published in the paper:
+This checklist is part of the paper:
 
-Calegario F., Tragtenberg J., Wang J., Franco I., Meneses E., Wanderley M.M. (2020) Open Source DMIs: Towards a Replication Certification for Online Shared Projects of Digital Musical Instruments. In: Stephanidis C., Marcus A., Rosenzweig E., Rau PL.P., Moallem A., Rauterberg M. (eds) HCI International 2020 - Late Breaking Papers: User Experience Design and Case Studies. HCII 2020. Lecture Notes in Computer Science, vol 12423. Springer, Cham. https://doi.org/10.1007/978-3-030-60114-0_5
+Calegario F., Tragtenberg J., Wang J., Franco I., Meneses E., Wanderley M.M. (2020) **Open Source DMIs: Towards a Replication Certification for Online Shared Projects of Digital Musical Instruments.** In: Stephanidis C., Marcus A., Rosenzweig E., Rau PL.P., Moallem A., Rauterberg M. (eds) HCI International 2020 - Late Breaking Papers: User Experience Design and Case Studies. HCII 2020. Lecture Notes in Computer Science, vol 12423. Springer, Cham. https://doi.org/10.1007/978-3-030-60114-0_5
 
 ```BibTeX
 @InProceedings{10.1007/978-3-030-60114-0_5,
@@ -57,7 +57,6 @@ year="2020",
 publisher="Springer International Publishing",
 address="Cham",
 pages="84--97",
-abstract="The internet has allowed for the flourishing of several shared projects. Developers from different parts of the world can work asynchronously on the same project, formulating ideas, and implementing complex systems. For remote collaboration in software development projects, sharing information and code becomes more straightforward, given the textual and abstract nature of the source. However, for projects involving hardware and physical artifacts development, it is necessary to have a more detailed level of information, since many other characteristics of the project need to be covered in the documentation. In the case of digital musical instruments, which are physical artifacts aimed at musical interaction, we have several aspects such as mechanical structure, electronic, programming, mapping, and sound design. Currently, there are few initiatives in the literature that indicate possible ways to guide designers and developers in the process of documenting the replication of their projects. Given the importance of advancing the area of new interfaces for musical expression, the diffusion of ideas among innovators, and the popularization of innovative musical instruments, this paper discusses the challenges of sharing DMIs. Our main goal is to propose a checklist to help designers and developers to share their projects to increase the potential for replicability. As future steps, we hope to move towards a certificate that guarantees how replicable a given project is considering makers other than its developers. Besides, with better documentation and a more organized sharing process, we expect to encourage designers and developers to reproduce existing DMIs in different parts of the world so we could understand the adoption of these devices in different contexts and cultures. This paper presents a step towards making the projects more accessible to make the DMI community more connected.",
 isbn="978-3-030-60114-0"
 }
 ```
